@@ -101,7 +101,7 @@
       </table>
     </div>
     <div class="h1">
-      <h1>Logo Perusahaan/Merk Kapal</h1>
+      <h1>Logo Perusahaan/Merk Kapal Laut</h1>
     </div>
     <div class="logo">
       <img src="https://images.bisnis-cdn.com/posts/2018/01/03/723113/djakarta_lloyd-1sah.jpg" alt="" width="120px">
