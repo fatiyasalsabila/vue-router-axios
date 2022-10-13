@@ -1,0 +1,197 @@
+{
+  "mobils": [
+    {
+      "merk": "Mazda",
+      "versi": "Mazda 3 Hatchback",
+      "harga": "Rp 523,3 Juta",
+      "buatan": "Jepang",
+      "gambar": "https://imgcdn.oto.com/medium/gallery/exterior/23/2199/mazda-3-2019-84418.jpg",
+      "id": 1
+    },
+    {
+      "merk": "Suzuki",
+      "versi": "Suzuki Ignis",
+      "harga": "Rp207.2 - 217.5 Juta",
+      "buatan": "Jepang",
+      "gambar": "https://static.carmudi.co.id/TrGHNcExGzZ3_g71zZjz0oWRL6c=/900x405/https://trenotomotif.com/ncs/images/Suzuki/Ignis-Facelift/Suzuki-Ignis.jpg",
+      "id": 2
+    },
+    {
+      "merk": "Mitsubishi",
+      "versi": "Mitsubishi Outlander Sport",
+      "harga": "Rp338 - 383.5 Juta",
+      "buatan": "Jepang",
+      "gambar": "https://static.carmudi.co.id/Go3GdiIh1OFcU8_mOmO0YVb8GxE=/900x405/https://trenotomotif.com/ncs/images/mitsubishi/Outlander%20Sport/OutlanderSport-1_ncs.jpg",
+      "id": 3
+    },
+    {
+      "merk": "KIA",
+      "versi": "KIA Sonet 7-Seater",
+      "harga": "Rp 230,6 - 325,4 Juta ",
+      "buatan": "Korea Selatan",
+      "gambar": "https://img.mobilmo.com/2021/04/13/UOgDFPLZ/depan-kia-sonet-smart-7-seater-2021-3b76.png",
+      "id": 4
+    },
+    {
+      "merk": "Nissan",
+      "versi": "Nissan Terra (Stop Selling)",
+      "harga": "Rp478.9 - 680.8 Juta ",
+      "buatan": "Jepang",
+      "gambar": "https://static.carmudi.co.id/fAEJLJzXoVWFdhCt6MDF_h7pQNQ=/900x405/https://trenotomotif.com/ncs/images/nissan/Terra/nissan-terra-2019.jpg",
+      "id": 5
+    }
+  ],
+  "pesawats": [
+    {
+      "nama": "Airbus A320",
+      "bermuatan": "236 penumpang",
+      "tempuh": "jarak 3.100 km hingga 12.000 km",
+      "image": "https://cdn.idntimes.com/content-images/post/20190624/airbus-a320-aef5232587a4ef0e642c7db95f07bdba.jpg",
+      "id": 6
+    },
+    {
+      "nama": "ATR 72",
+      "bermuatan": "68-78 penumpang",
+      "tempuh": "pendek 1.648 kilometer",
+      "image": "https://cdn.idntimes.com/content-images/post/20190624/atr-72-d17aebe3f85c3bbbcba199db21dcc2ab.jpg",
+      "id": 7
+    },
+    {
+      "nama": "Boeing 777",
+      "bermuatan": "314 hingga 396 penumpang",
+      "tempuh": "9.695 sampai 17.372 km",
+      "image": "https://cdn.idntimes.com/content-images/post/20190624/boeing-777-bbf86b967fefed91c2c3a9a298796b5f.jpg",
+      "id": 8
+    },
+    {
+      "nama": "Piaggio P180 Avanti",
+      "bermuatan": "-",
+      "tempuh": "2.795 km",
+      "image": "https://www.kabarpenumpang.com/wp-content/uploads/2018/02/piaggio-p.180-avanti-06.jpg",
+      "id": 9
+    },
+    {
+      "nama": "Airbus A330",
+      "bermuatan": "440 orang",
+      "tempuh": "13.334 kilometer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Turkish_Airlines%2C_Airbus_A330-300_TC-JNL_NRT_%2823708073592%29.jpg/640px-Turkish_Airlines%2C_Airbus_A330-300_TC-JNL_NRT_%2823708073592%29.jpg",
+      "id": 10
+    }
+  ],
+  "motors": [
+    {
+      "merk": "Yamaha",
+      "versi": "Yamaha Nmax",
+      "harga": "Rp 31,12 Juta",
+      "negara": "Jepang",
+      "image": "https://www.yamaha-motor.co.id/uploads/content/image/u5jA2mo4CeqxqBHSNE08.jpg",
+      "id": 11
+    },
+    {
+      "merk": "Kawasaki",
+      "versi": "Kawasaki Ninja ZX-25R",
+      "negara": "Jepang",
+      "harga": "Rp 102,6 - 120 Juta",
+      "image": "https://i0.wp.com/warungasep.net/wp-content/uploads/2020/07/fitur-zx25r.png",
+      "id": 12
+    },
+    {
+      "merk": "Harley Davidson",
+      "versi": "Harley Davidson Street 500",
+      "negara": "Jepang",
+      "harga": "Rp 273,00 Juta",
+      "image": "https://images.autofun.co.id/file1/a45e8bdf75ea40a3a3a5f391b3ff7f65_456x258.jpg",
+      "id": 13
+    },
+    {
+      "merk": "Aprilia",
+      "versi": "Aprilia Tuareg 660 ",
+      "negara": "Italia",
+      "harga": "Rp 65,60 Juta",
+      "image": "https://images.autofun.co.id/file1/a5ea8e1fd1ad4746b8ffbea46a74d4f2_456x258.jpg",
+      "id": 14
+    },
+    {
+      "merk": "BMW ",
+      "versi": "BMW K 1600",
+      "negara": "Jepang",
+      "harga": "Rp 1,15 - 1,25 Milyar",
+      "image": "https://images.autofun.co.id/file1/2594c0ddd20b4c3fa11624b42dd91849_456x258.jpg",
+      "id": 15
+    }
+  ],
+  "kapals": [
+    {
+      "nama": "Kapal Barang",
+      "fungsi": "untuk pengangkutan barang",
+      "ukuran": " 500 TEU sampai dengan 22.000 TEU",
+      "image": "https://www.suzuki.co.id/uploads/image/64919783_s.jpg",
+      "id": 16
+    },
+    {
+      "nama": "Kapal Pesiar",
+      "fungsi": "sektor pariwisata",
+      "ukuran": " 2.400 penumpang.",
+      "image": "https://merahputih.com/media/3a/cc/26/3acc26f77b0ce1d5c0ecf13633603dde.jpeg",
+      "id": 17
+    },
+    {
+      "nama": "Kapal Tanker",
+      "fungsi": "untuk mengangkut minyak dan seluruh bahan turunannya",
+      "ukuran": " kapasitas muat dari 16.500",
+      "image": "https://cdn.medcom.id/images/content/2016/02/29/491312/alNg1tA9ck.jpg",
+      "id": 18
+    },
+    {
+      "nama": "Kapal selam",
+      "fungsi": "untuk amenyelam di bawah laut",
+      "ukuran": " panjang 61,3 meter dan diameter 6,2 meter.",
+      "image": "https://media.suara.com/pictures/970x544/2015/08/26/o_19tkhgc7j1p6ntu414sq1rsc199ga.jpg",
+      "id": 19
+    },
+    {
+      "nama": "Kapal Feri",
+      "fungsi": "untuk berbagai aktivitas perjalanan di laut",
+      "ukuran": "  240 orang",
+      "image": "https://i0.wp.com/www.kabarpenumpang.com/wp-content/uploads/2017/03/kmp-port-link-1.jpg?fit=800%2C403&ssl=1",
+      "id": 20
+    }
+  ],
+  "buts": [
+    {
+      "nama": "Bus Super High Decker (SHD)",
+      "tinggi": " 3,9 meter",
+      "kapasitas": " 59 penumpang",
+      "image": "https://cdn.idntimes.com/content-images/post/20220609/whatsapp-image-2022-06-09-at-142130-cleanup-28a4a6ce59f751db193409b9714825d6.jpeg",
+      "id": 21
+    },
+    {
+      "nama": "Bus High Decker Double Glass (HDDG)",
+      "tinggi": "  3,7 meter",
+      "kapasitas": " 59 penumpang",
+      "image": "https://cdn.idntimes.com/content-images/post/20220609/65715070-447854655947037-5945658518960200825-n-1b9b4075cf00b127d2a8dfab453206f2.jpg",
+      "id": 22
+    },
+    {
+      "nama": "Bus Double Decker (DD)",
+      "tinggi": " 4,15 meter",
+      "kapasitas": " 96 penumpang.",
+      "image": "https://cdn.idntimes.com/content-images/post/20220609/whatsapp-image-2022-06-09-at-141223-c438b64bff853b61b45dc5f863943c82.jpeg",
+      "id": 23
+    },
+    {
+      "nama": " Bus normal deck",
+      "tinggi": " 3 meter",
+      "kapasitas": " 60 penumpang (2-3) dan 50 orang (2-2),",
+      "image": "https://fajrialhadi.com/wp-content/uploads/2020/02/Harga-Sewa-Bus-Tipe-Medium.jpg",
+      "id": 24
+    },
+    {
+      "nama": "Bus Ultra High Decker (UHD)",
+      "tinggi": " 4 meter",
+      "kapasitas": "52 orang.",
+      "image": "https://cdn.idntimes.com/content-images/post/20220609/69403185-2466017570118628-5619319426108650021-n-0bba769dd7168b1298a20da94c7b6677.jpg",
+      "id": 25
+    }
+  ]
+}
